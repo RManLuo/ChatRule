@@ -1,0 +1,30 @@
+3.0	0.2727272727272727	1.0	1.0	contains <-- interconnects, inv_surrounds, contains
+7.0	0.6363636363636364	0.5	1.0	contains <-- inv_disrupts, inv_produces, contains
+1.0	0.09090909090909091	1.0	1.0	contains <-- surrounds, interconnects, contains
+1.0	0.09090909090909091	1.0	1.0	contains <-- inv_surrounds, inv_interconnects, contains
+1.0	0.09090909090909091	1.0	1.0	contains <-- interconnects, isa, contains
+6.0	0.5454545454545454	0.3	1.0	contains <-- produces, inv_produces, contains
+1.0	0.09090909090909091	1.0	1.0	contains <-- contains, isa, contains
+10.0	0.9090909090909091	1.0	1.0	contains <-- contains, surrounds, contains
+1.0	0.09090909090909091	0.25	1.0	contains <-- inv_contains, surrounds, contains
+1.0	0.09090909090909091	0.25	1.0	contains <-- inv_contains, interconnects, contains
+4.0	0.36363636363636365	1.0	1.0	contains <-- isa, contains
+4.0	0.36363636363636365	0.5714285714285714	0.6666666666666666	contains <-- surrounds, contains
+6.0	0.5454545454545454	0.6	0.6	contains <-- surrounds, inv_surrounds, contains
+2.0	0.18181818181818182	0.5	0.5	contains <-- interconnects, contains
+2.0	0.18181818181818182	0.5	0.5	contains <-- inv_interconnects, contains
+1.0	0.09090909090909091	0.25	0.3333333333333333	contains <-- inv_surrounds, inv_surrounds
+2.0	0.18181818181818182	0.3333333333333333	0.3333333333333333	contains <-- surrounds, inv_contains, contains
+7.0	0.6363636363636364	0.125	0.25	contains <-- inv_disrupts, disrupts, surrounds
+1.0	0.09090909090909091	0.25	0.25	contains <-- surrounds, produces, inv_surrounds
+6.0	0.5454545454545454	0.12	0.24	contains <-- inv_disrupts, inv_produces, surrounds
+2.0	0.18181818181818182	0.2222222222222222	0.2222222222222222	contains <-- contains, inv_surrounds
+1.0	0.09090909090909091	0.16666666666666666	0.2	contains <-- inv_surrounds
+1.0	0.09090909090909091	0.14285714285714285	0.16666666666666666	contains <-- surrounds
+1.0	0.09090909090909091	0.16666666666666666	0.16666666666666666	contains <-- inv_interconnects, contains, surrounds
+1.0	0.09090909090909091	0.03333333333333333	0.16666666666666666	contains <-- prevents, inv_measures, uses
+2.0	0.18181818181818182	0.14285714285714285	0.14285714285714285	contains <-- interconnects, inv_disrupts, disrupts
+2.0	0.18181818181818182	0.14285714285714285	0.14285714285714285	contains <-- inv_interconnects, produces, disrupts
+1.0	0.09090909090909091	0.017857142857142856	0.125	contains <-- inv_uses, inv_isa, produces
+3.0	0.2727272727272727	0.009036144578313253	0.125	contains <-- inv_produces, isa, produces
+1.0	0.09090909090909091	0.025	0.125	contains <-- prevents, inv_affects, uses

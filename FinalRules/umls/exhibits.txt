@@ -1,0 +1,30 @@
+6.0	0.15	1.0	1.0	exhibits <-- performs, affects, exhibits
+9.0	0.225	0.42857142857142855	1.0	exhibits <-- inv_isa, exhibits
+3.0	0.075	1.0	1.0	exhibits <-- treats, isa, exhibits
+11.0	0.275	0.7333333333333333	0.9166666666666666	exhibits <-- inv_affects, inv_produces, exhibits
+5.0	0.125	0.1388888888888889	0.8333333333333334	exhibits <-- inv_produces, affects, exhibits
+15.0	0.375	0.5	0.8333333333333334	exhibits <-- produces, inv_produces, exhibits
+34.0	0.85	0.6538461538461539	0.6538461538461539	exhibits <-- isa, exhibits, affects
+3.0	0.075	0.21428571428571427	0.21428571428571427	exhibits <-- treats, performs
+3.0	0.075	0.21428571428571427	0.21428571428571427	exhibits <-- manages, manages, performs
+1.0	0.025	0.2	0.2	exhibits <-- treats, performs, isa
+3.0	0.075	0.2	0.2	exhibits <-- treats, isa, performs
+23.0	0.575	0.051111111111111114	0.19166666666666668	exhibits <-- inv_affects, produces, performs
+15.0	0.375	0.1	0.16666666666666666	exhibits <-- produces, inv_uses, performs
+12.0	0.3	0.16	0.16	exhibits <-- isa, performs
+15.0	0.375	0.1388888888888889	0.1388888888888889	exhibits <-- performs, affects
+9.0	0.225	0.13636363636363635	0.13636363636363635	exhibits <-- performs, inv_isa
+7.0	0.175	0.12727272727272726	0.12727272727272726	exhibits <-- isa, performs, inv_isa
+4.0	0.1	0.12121212121212122	0.12121212121212122	exhibits <-- performs, isa
+3.0	0.075	0.1	0.1	exhibits <-- isa, performs, isa
+40.0	1.0	0.09975062344139651	0.09975062344139651	exhibits <-- exhibits, isa, inv_isa
+15.0	0.375	0.09259259259259259	0.09259259259259259	exhibits <-- performs, isa, inv_isa
+13.0	0.325	0.08666666666666667	0.08666666666666667	exhibits <-- exhibits, inv_affects, isa
+3.0	0.075	0.013513513513513514	0.08108108108108109	exhibits <-- diagnoses, affects, affects
+25.0	0.625	0.018436578171091445	0.07507507507507508	exhibits <-- inv_affects, inv_precedes, affects
+40.0	1.0	0.07407407407407407	0.07407407407407407	exhibits <-- exhibits, inv_affects, affects
+13.0	0.325	0.07027027027027027	0.07027027027027027	exhibits <-- performs, complicates, affects
+5.0	0.125	0.01141552511415525	0.06756756756756757	exhibits <-- inv_produces, inv_precedes, affects
+15.0	0.375	0.06756756756756757	0.06756756756756757	exhibits <-- performs, affects, affects
+5.0	0.125	0.007541478129713424	0.06756756756756757	exhibits <-- inv_produces, affects, affects
+25.0	0.625	0.019857029388403495	0.06702412868632708	exhibits <-- isa, inv_affects, affects

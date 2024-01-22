@@ -1,0 +1,15 @@
+341.0	0.5645695364238411	0.12946089597570234	0.5328125	_member_of_domain_usage <-- _hypernym, inv__hypernym, _member_of_domain_usage
+599.0	0.9917218543046358	0.3586826347305389	0.3586826347305389	_member_of_domain_usage <-- _member_of_domain_usage, inv__member_of_domain_usage, _member_of_domain_usage
+599.0	0.9917218543046358	0.3586826347305389	0.3586826347305389	_member_of_domain_usage <-- _member_of_domain_usage, inv__member_of_domain_usage, _member_of_domain_usage
+8.0	0.013245033112582781	0.035398230088495575	0.26666666666666666	_member_of_domain_usage <-- _hypernym, _hypernym, _member_of_domain_usage
+8.0	0.013245033112582781	0.035398230088495575	0.26666666666666666	_member_of_domain_usage <-- _hypernym, _hypernym, _member_of_domain_usage
+17.0	0.028145695364238412	0.19767441860465115	0.19767441860465115	_member_of_domain_usage <-- _member_of_domain_usage, inv__hypernym
+17.0	0.028145695364238412	0.19767441860465115	0.19767441860465115	_member_of_domain_usage <-- _member_of_domain_usage, inv__hypernym
+355.0	0.5877483443708609	0.1466336224700537	0.1466336224700537	_member_of_domain_usage <-- _member_of_domain_usage, _hypernym, inv__hypernym
+355.0	0.5877483443708609	0.1466336224700537	0.1466336224700537	_member_of_domain_usage <-- _member_of_domain_usage, _hypernym, inv__hypernym
+14.0	0.023178807947019868	0.03753351206434316	0.03753351206434316	_member_of_domain_usage <-- _member_of_domain_usage, _hypernym
+14.0	0.023178807947019868	0.03753351206434316	0.03753351206434316	_member_of_domain_usage <-- _member_of_domain_usage, _hypernym
+20.0	0.033112582781456956	0.011242270938729624	0.011242270938729624	_member_of_domain_usage <-- _member_of_domain_usage, inv__member_of_domain_region, _member_of_domain_region
+20.0	0.033112582781456956	0.011242270938729624	0.011242270938729624	_member_of_domain_usage <-- _member_of_domain_usage, inv__member_of_domain_region, _member_of_domain_region
+2.0	0.0033112582781456954	0.004024144869215292	0.006802721088435374	_member_of_domain_usage <-- _member_of_domain_region, _hypernym
+2.0	0.0033112582781456954	0.004024144869215292	0.006802721088435374	_member_of_domain_usage <-- _member_of_domain_region, _hypernym

@@ -1,0 +1,30 @@
+28.0	1.0	1.0	1.0	prevents <-- prevents
+11.0	0.39285714285714285	0.3055555555555556	0.9166666666666666	prevents <-- inv_produces, inv_isa, diagnoses
+27.0	0.9642857142857143	0.9	0.9	prevents <-- prevents, precedes
+27.0	0.9642857142857143	0.9	0.9	prevents <-- treats, inv_complicates, inv_precedes
+16.0	0.5714285714285714	0.14814814814814814	0.8888888888888888	prevents <-- complicates, complicates, inv_precedes
+15.0	0.5357142857142857	0.4166666666666667	0.8333333333333334	prevents <-- inv_uses, treats, inv_precedes
+10.0	0.35714285714285715	0.15151515151515152	0.8333333333333334	prevents <-- disrupts, affects, causes
+10.0	0.35714285714285715	0.23809523809523808	0.7142857142857143	prevents <-- diagnoses, inv_prevents, prevents
+10.0	0.35714285714285715	0.23809523809523808	0.7142857142857143	prevents <-- diagnoses, inv_treats, prevents
+7.0	0.25	0.7	0.7	prevents <-- contains, inv_uses, diagnoses
+12.0	0.42857142857142855	0.6	0.6	prevents <-- isa, prevents, complicates
+27.0	0.9642857142857143	0.6	0.6	prevents <-- prevents, inv_complicates, indicates
+6.0	0.21428571428571427	0.04	0.6	prevents <-- inv_performs, produces, causes
+16.0	0.5714285714285714	0.035555555555555556	0.5925925925925926	prevents <-- affects, inv_disrupts, indicates
+27.0	0.9642857142857143	0.022651006711409395	0.5869565217391305	prevents <-- isa, inv_isa, diagnoses
+28.0	1.0	0.4666666666666667	0.56	prevents <-- treats, inv_affects, diagnoses
+28.0	1.0	0.56	0.56	prevents <-- prevents, inv_causes, causes
+28.0	1.0	0.56	0.56	prevents <-- prevents, inv_affects, diagnoses
+22.0	0.7857142857142857	0.275	0.55	prevents <-- inv_uses, affects, complicates
+22.0	0.7857142857142857	0.05789473684210526	0.55	prevents <-- causes, inv_treats, causes
+22.0	0.7857142857142857	0.05789473684210526	0.55	prevents <-- causes, complicates, complicates
+22.0	0.7857142857142857	0.05789473684210526	0.55	prevents <-- causes, inv_affects, diagnoses
+6.0	0.21428571428571427	0.06818181818181818	0.5454545454545454	prevents <-- uses, inv_isa, treats
+16.0	0.5714285714285714	0.08888888888888889	0.5333333333333333	prevents <-- complicates, inv_affects, diagnoses
+16.0	0.5714285714285714	0.08888888888888889	0.5333333333333333	prevents <-- complicates, inv_prevents, causes
+16.0	0.5714285714285714	0.035555555555555556	0.5333333333333333	prevents <-- affects, complicates, complicates
+22.0	0.7857142857142857	0.05263157894736842	0.5	prevents <-- causes, inv_treats, treats
+16.0	0.5714285714285714	0.028169014084507043	0.48484848484848486	prevents <-- affects, inv_affects, treats
+16.0	0.5714285714285714	0.0321285140562249	0.47058823529411764	prevents <-- affects, inv_treats, treats
+5.0	0.17857142857142858	0.015151515151515152	0.45454545454545453	prevents <-- inv_measures, uses, treats

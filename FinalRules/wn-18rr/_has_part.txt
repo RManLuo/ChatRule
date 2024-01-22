@@ -1,0 +1,39 @@
+129.0	0.02794022092267706	0.7724550898203593	0.7724550898203593	_has_part <-- _has_part, _member_of_domain_region, inv__member_of_domain_region
+8.0	0.0017327268789257093	0.0070859167404783	0.6153846153846154	_has_part <-- _member_meronym, inv__hypernym, inv__member_meronym
+778.0	0.16850768897552523	0.5762962962962963	0.5762962962962963	_has_part <-- _has_part, _has_part, inv__has_part
+96.0	0.02079272254710851	0.4247787610619469	0.4247787610619469	_has_part <-- _has_part, inv__instance_hypernym
+4209.0	0.9116309291747888	0.3910619715692651	0.3910619715692651	_has_part <-- _has_part, inv__has_part, _has_part
+1574.0	0.3409140134286333	0.07429083872185774	0.2907814520598559	_has_part <-- _hypernym, inv__hypernym, _has_part
+11.0	0.0023824994585228505	0.034055727554179564	0.28205128205128205	_has_part <-- _derivationally_related_form, inv__derivationally_related_form, _member_meronym
+11.0	0.0023824994585228505	0.043137254901960784	0.275	_has_part <-- inv__derivationally_related_form, inv__derivationally_related_form, _member_meronym
+11.0	0.0023824994585228505	0.020522388059701493	0.22448979591836735	_has_part <-- _derivationally_related_form, _derivationally_related_form, _member_meronym
+11.0	0.0023824994585228505	0.024282560706401765	0.21568627450980393	_has_part <-- inv__derivationally_related_form, _derivationally_related_form, _member_meronym
+172.0	0.03725362789690275	0.17251755265797392	0.17251755265797392	_has_part <-- _has_part, inv__member_meronym, _member_meronym
+1537.0	0.3329001516136019	0.11363300310513086	0.11363300310513086	_has_part <-- _has_part, _hypernym, inv__hypernym
+10.0	0.0021659085986571367	0.11235955056179775	0.11235955056179775	_has_part <-- _has_part, inv__instance_hypernym, inv__has_part
+724.0	0.1568117825427767	0.07932507943464447	0.10910186859553948	_has_part <-- inv__member_meronym, _member_meronym, _has_part
+1954.0	0.4232185401776045	0.05548929403078321	0.07988552739165986	_has_part <-- inv__has_part, _has_part, _has_part
+1954.0	0.4232185401776045	0.05548929403078321	0.07988552739165986	_has_part <-- inv__has_part, _has_part, _has_part
+9.0	0.001949317738791423	0.0014698677119059284	0.07894736842105263	_has_part <-- inv__member_of_domain_region, _has_part, _member_of_domain_region
+1400.0	0.30322720381199914	0.029691211401425176	0.05160148907154178	_has_part <-- _instance_hypernym, inv__instance_hypernym, _has_part
+29.0	0.006281134936105696	0.03983516483516483	0.03983516483516483	_has_part <-- _has_part, _hypernym, inv__instance_hypernym
+45.0	0.009746588693957114	0.03971756398940865	0.03971756398940865	_has_part <-- _has_part, inv__hypernym
+107.0	0.023175222005631362	0.03419622882710131	0.03419622882710131	_has_part <-- _has_part, _has_part
+47.0	0.010179770413688543	0.02297165200391007	0.02297165200391007	_has_part <-- _has_part, _hypernym
+35.0	0.007580680095299978	0.0035904800984817398	0.020958083832335328	_has_part <-- _hypernym, inv__hypernym, inv__has_part
+117.0	0.025341130604288498	0.01877105727579015	0.01877105727579015	_has_part <-- _has_part, _synset_domain_topic_of, inv__synset_domain_topic_of
+1258.0	0.2724713017110678	0.018315764952536253	0.018315764952536253	_has_part <-- _has_part, _instance_hypernym, inv__instance_hypernym
+49.0	0.01061295213341997	0.016984402079722703	0.016984402079722703	_has_part <-- _has_part, inv__has_part
+31.0	0.006714316655837124	0.0022789090641770196	0.015720081135902637	_has_part <-- inv__has_part, _hypernym, inv__hypernym
+15.0	0.003248862897985705	0.014925373134328358	0.014925373134328358	_has_part <-- _has_part, _instance_hypernym
+4.0	0.0008663634394628547	0.00047978889288712967	0.013745704467353952	_has_part <-- inv__member_of_domain_region, _has_part
+63.0	0.01364522417153996	0.011304503857886236	0.011304503857886236	_has_part <-- _has_part, inv__member_of_domain_region, _member_of_domain_region
+140.0	0.030322720381199913	0.00018067803303568777	0.009432055514383884	_has_part <-- _hypernym, inv__hypernym
+37.0	0.008013861815031406	0.0002084507042253521	0.006131919124958568	_has_part <-- _synset_domain_topic_of, inv__synset_domain_topic_of
+5.0	0.0010829542993285683	0.005040322580645161	0.005040322580645161	_has_part <-- _has_part, inv__has_part, inv__has_part
+6.0	0.001299545159194282	0.0002008435428800964	0.004076086956521739	_has_part <-- inv__hypernym, _derivationally_related_form, _derivationally_related_form
+5.0	0.0010829542993285683	0.0006636580833554553	0.0027502750275027505	_has_part <-- inv__has_part, _has_part, inv__has_part
+21.0	0.004548408057179987	5.1535386404965066e-05	0.002001143510577473	_has_part <-- _hypernym, inv__hypernym, inv__hypernym
+10.0	0.0021659085986571367	0.00014898466947751076	0.0018375597206909224	_has_part <-- inv__hypernym, _synset_domain_topic_of, inv__synset_domain_topic_of
+2.0	0.00043318171973142733	9.224666758913334e-05	0.0014970059880239522	_has_part <-- _instance_hypernym, _synset_domain_topic_of, inv__synset_domain_topic_of
+1.0	0.00021659085986571366	4.5471080392870135e-05	0.0008718395815170009	_has_part <-- inv__hypernym, inv__derivationally_related_form, _derivationally_related_form

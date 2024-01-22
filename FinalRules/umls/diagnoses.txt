@@ -1,0 +1,30 @@
+24.0	0.5217391304347826	0.0784313725490196	1.0	diagnoses <-- affects, inv_disrupts, prevents
+12.0	0.2608695652173913	0.18181818181818182	1.0	diagnoses <-- disrupts, inv_affects, prevents
+6.0	0.13043478260869565	1.0	1.0	diagnoses <-- analyzes, treats, inv_isa
+20.0	0.43478260869565216	1.0	1.0	diagnoses <-- analyzes, causes
+10.0	0.21739130434782608	0.35714285714285715	1.0	diagnoses <-- prevents
+12.0	0.2608695652173913	0.4	1.0	diagnoses <-- prevents, inv_treats, diagnoses
+12.0	0.2608695652173913	0.05263157894736842	1.0	diagnoses <-- causes, inv_treats, diagnoses
+12.0	0.2608695652173913	0.1111111111111111	1.0	diagnoses <-- complicates, complicates, precedes
+20.0	0.43478260869565216	0.5	1.0	diagnoses <-- measures, precedes, complicates
+24.0	0.5217391304347826	0.08888888888888889	1.0	diagnoses <-- affects, complicates, precedes
+6.0	0.13043478260869565	0.2	1.0	diagnoses <-- isa, performs, prevents
+30.0	0.6521739130434783	1.0	1.0	diagnoses <-- diagnoses, inv_isa, inv_precedes
+12.0	0.2608695652173913	0.05263157894736842	1.0	diagnoses <-- causes, complicates, inv_precedes
+12.0	0.2608695652173913	0.4	1.0	diagnoses <-- treats, inv_precedes, precedes
+10.0	0.21739130434782608	0.3333333333333333	1.0	diagnoses <-- affects, uses, causes
+12.0	0.2608695652173913	0.05128205128205128	1.0	diagnoses <-- inv_measures, analyzes, diagnoses
+35.0	0.7608695652173914	0.9722222222222222	0.9722222222222222	diagnoses <-- diagnoses, inv_treats, diagnoses
+20.0	0.43478260869565216	0.45454545454545453	0.9090909090909091	diagnoses <-- measures, inv_complicates, treats
+20.0	0.43478260869565216	0.12121212121212122	0.9090909090909091	diagnoses <-- inv_performs, uses, treats
+32.0	0.6956521739130435	0.07126948775055679	0.8	diagnoses <-- affects, isa, complicates
+8.0	0.17391304347826086	0.08	0.8	diagnoses <-- inv_treats, diagnoses, complicates
+46.0	1.0	0.7666666666666667	0.7666666666666667	diagnoses <-- diagnoses, produces, causes
+46.0	1.0	0.7666666666666667	0.7666666666666667	diagnoses <-- diagnoses, complicates, complicates
+16.0	0.34782608695652173	0.18181818181818182	0.7272727272727273	diagnoses <-- uses, treats
+46.0	1.0	0.696969696969697	0.696969696969697	diagnoses <-- diagnoses, inv_causes, treats
+12.0	0.2608695652173913	0.26666666666666666	0.6666666666666666	diagnoses <-- prevents, inv_causes, indicates
+32.0	0.6956521739130435	0.059369202226345084	0.6666666666666666	diagnoses <-- affects, inv_diagnoses, treats
+12.0	0.2608695652173913	0.030303030303030304	0.6666666666666666	diagnoses <-- inv_measures, measures, indicates
+12.0	0.2608695652173913	0.07407407407407407	0.6666666666666666	diagnoses <-- complicates, inv_affects, indicates
+26.0	0.5652173913043478	0.026530612244897958	0.65	diagnoses <-- isa, inv_isa, causes

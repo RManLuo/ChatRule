@@ -1,0 +1,43 @@
+1996.0	0.059623024763270305	0.9895884977689638	0.993529118964659	_hypernym <-- _member_meronym, inv__member_meronym, _hypernym
+4183.0	0.12495145921080145	0.4843677628531728	0.5264283916435942	_hypernym <-- inv__member_meronym, _member_meronym, _hypernym
+7303.0	0.21814977447202558	0.3250834631649232	0.36610186484860635	_hypernym <-- inv__derivationally_related_form, inv__derivationally_related_form, _hypernym
+10429.0	0.3115273172625982	0.3198785387847744	0.3606030220255178	_hypernym <-- _derivationally_related_form, inv__derivationally_related_form, _hypernym
+10228.0	0.3055231950294232	0.31821293012258106	0.35799789989499475	_hypernym <-- inv__derivationally_related_form, _derivationally_related_form, _hypernym
+12372.0	0.36956716551662333	0.2807543059432228	0.3182180611641246	_hypernym <-- _derivationally_related_form, _derivationally_related_form, _hypernym
+40.0	0.0011948501956567195	0.07736943907156674	0.09195402298850575	_hypernym <-- _verb_group, _hypernym, _hypernym
+24.0	0.0007169101173940317	0.023121387283236993	0.04669260700389105	_hypernym <-- inv__derivationally_related_form, _derivationally_related_form, inv__also_see
+33.0	0.0009857514114167936	0.023060796645702306	0.045020463847203276	_hypernym <-- _derivationally_related_form, _derivationally_related_form, inv__also_see
+681.0	0.02034232458105565	0.031758615865317356	0.03790915163660655	_hypernym <-- inv__derivationally_related_form, _hypernym, inv__derivationally_related_form
+1023.0	0.030558293753920603	0.031703235403495726	0.037818853974122	_hypernym <-- inv__derivationally_related_form, _hypernym, _derivationally_related_form
+1452.0	0.04337306210233892	0.03063226514208561	0.03655405065203162	_hypernym <-- _derivationally_related_form, _hypernym, _derivationally_related_form
+963.0	0.028766018460435524	0.0305307209435039	0.03646346081029913	_hypernym <-- _derivationally_related_form, _hypernym, inv__derivationally_related_form
+81.0	0.002419571646204857	0.0225752508361204	0.026264591439688716	_hypernym <-- _member_meronym, _hypernym
+92.0	0.002748155450010455	0.022041207474844275	0.02519857573267598	_hypernym <-- inv__member_meronym, _hypernym
+33.0	0.0009857514114167936	0.01956135151155898	0.02403495994173343	_hypernym <-- inv__verb_group, inv__derivationally_related_form, _derivationally_related_form
+47.0	0.0014039489798966455	0.01833788529067499	0.022531160115052733	_hypernym <-- _verb_group, inv__derivationally_related_form, _derivationally_related_form
+33.0	0.0009857514114167936	0.017609391675560297	0.021653543307086614	_hypernym <-- _verb_group, inv__derivationally_related_form, inv__derivationally_related_form
+22.0	0.0006571676076111958	0.017543859649122806	0.021653543307086614	_hypernym <-- inv__verb_group, inv__derivationally_related_form, inv__derivationally_related_form
+40.0	0.0011948501956567195	0.017248814144027597	0.021333333333333333	_hypernym <-- inv__verb_group, _derivationally_related_form, _derivationally_related_form
+29.0	0.0008662663918511216	0.01642129105322763	0.020451339915373765	_hypernym <-- inv__verb_group, _derivationally_related_form, inv__derivationally_related_form
+56.0	0.0016727902739194073	0.016489988221436984	0.020223907547851208	_hypernym <-- _verb_group, _derivationally_related_form, _derivationally_related_form
+42.0	0.0012545927054395554	0.01622874806800618	0.02005730659025788	_hypernym <-- _verb_group, _derivationally_related_form, inv__derivationally_related_form
+849.0	0.02536069540281387	0.015054259167316831	0.018214975327183008	_hypernym <-- _derivationally_related_form, _derivationally_related_form
+421.0	0.012575798309286974	0.014928548633027198	0.018105969378978154	_hypernym <-- inv__derivationally_related_form, inv__derivationally_related_form
+593.0	0.017713654150610866	0.014379243452958292	0.01746069136093281	_hypernym <-- _derivationally_related_form, inv__derivationally_related_form
+588.0	0.017564297876153778	0.014384969175066053	0.017401598105948504	_hypernym <-- inv__derivationally_related_form, _derivationally_related_form
+21.0	0.0006272963527197777	0.013282732447817837	0.015195369030390739	_hypernym <-- _member_meronym, _hypernym, inv__member_meronym
+344.0	0.010275711682647789	0.009347318080539102	0.010280625205463077	_hypernym <-- inv__member_meronym, inv__member_meronym, _member_meronym
+11.0	0.0003285838038055979	0.007051282051282051	0.008011653313911144	_hypernym <-- _member_meronym, _member_meronym, _hypernym
+2.0	5.974250978283598e-05	0.004415011037527594	0.00554016620498615	_hypernym <-- inv__derivationally_related_form, _derivationally_related_form, _member_meronym
+364.0	0.010873136780476148	0.002050704225352113	0.0025737295745568447	_hypernym <-- _synset_domain_topic_of, inv__synset_domain_topic_of
+16.0	0.00047794007826268783	0.00167276529012023	0.0019962570180910794	_hypernym <-- inv__verb_group, _hypernym, inv__hypernym
+22.0	0.0006571676076111958	0.0014343460685878212	0.0016941321423071	_hypernym <-- _verb_group, _hypernym, inv__hypernym
+71.0	0.0021208590972906774	0.0013142550395202045	0.0016212636722763912	_hypernym <-- _derivationally_related_form, _derivationally_related_form, inv__hypernym
+50.0	0.0014935627445708994	0.001262339367315509	0.0015657293167157262	_hypernym <-- _derivationally_related_form, inv__derivationally_related_form, inv__hypernym
+86.0	0.002568927920661947	0.001045579992948414	0.0012659904903505026	_hypernym <-- _synset_domain_topic_of, inv__synset_domain_topic_of, inv__hypernym
+3.0	8.961376467425397e-05	0.0006330449461911796	0.0008995502248875562	_hypernym <-- _member_meronym, _synset_domain_topic_of, inv__synset_domain_topic_of
+10.0	0.00029871254891417987	0.0005462988254575252	0.000679532481652623	_hypernym <-- _derivationally_related_form, _hypernym, _hypernym
+26.0	0.0007766526271768677	0.0005423219723832965	0.0006418802152767492	_hypernym <-- inv__derivationally_related_form, _synset_domain_topic_of, inv__synset_domain_topic_of
+34.0	0.0010156226663082116	0.00048706414921353465	0.0005873715124816446	_hypernym <-- _derivationally_related_form, _synset_domain_topic_of, inv__synset_domain_topic_of
+7.0	0.0002090987842399259	4.737412019491067e-05	4.737412019491067e-05	_hypernym <-- _hypernym, inv__hypernym, inv__member_meronym
+16.0	0.00047794007826268783	2.0648918061221462e-05	2.0648918061221462e-05	_hypernym <-- _hypernym, inv__hypernym

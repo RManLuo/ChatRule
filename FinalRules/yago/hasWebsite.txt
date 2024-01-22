@@ -1,0 +1,6 @@
+1.0	0.015873015873015872	1.0	1.0	hasWebsite <-- isPoliticianOf, inv_isPoliticianOf, hasWebsite
+16.0	0.25396825396825395	0.2909090909090909	1.0	hasWebsite <-- inv_isLocatedIn, isLocatedIn, hasWebsite
+7.0	0.1111111111111111	0.5384615384615384	1.0	hasWebsite <-- hasOfficialLanguage, inv_hasOfficialLanguage, hasWebsite
+2.0	0.031746031746031744	0.024096385542168676	1.0	hasWebsite <-- inv_isLocatedIn, hasWebsite
+3.0	0.047619047619047616	0.0010452961672473868	0.75	hasWebsite <-- hasMusicalRole, inv_hasMusicalRole, hasWebsite
+52.0	0.8253968253968254	0.003082212079900421	0.6842105263157895	hasWebsite <-- isLocatedIn, inv_isLocatedIn, hasWebsite

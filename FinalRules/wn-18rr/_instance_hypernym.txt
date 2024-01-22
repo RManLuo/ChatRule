@@ -1,0 +1,24 @@
+1.0	0.000351493848857645	0.022727272727272728	1.0	_instance_hypernym <-- inv__derivationally_related_form, _instance_hypernym
+1.0	0.000351493848857645	0.014285714285714285	1.0	_instance_hypernym <-- _derivationally_related_form, _instance_hypernym
+46.0	0.01616871704745167	0.4423076923076923	0.8679245283018868	_instance_hypernym <-- inv__derivationally_related_form, _derivationally_related_form, _instance_hypernym
+58.0	0.02038664323374341	0.41134751773049644	0.8405797101449275	_instance_hypernym <-- _derivationally_related_form, _derivationally_related_form, _instance_hypernym
+87.0	0.030579964850615114	0.7909090909090909	0.8365384615384616	_instance_hypernym <-- _member_of_domain_region, inv__member_of_domain_region, _instance_hypernym
+46.0	0.01616871704745167	0.46	0.8363636363636363	_instance_hypernym <-- _derivationally_related_form, inv__derivationally_related_form, _instance_hypernym
+25.0	0.008787346221441126	0.390625	0.8333333333333334	_instance_hypernym <-- inv__derivationally_related_form, inv__derivationally_related_form, _instance_hypernym
+326.0	0.11458699472759226	0.5895117540687161	0.6150943396226415	_instance_hypernym <-- _has_part, inv__has_part, _instance_hypernym
+128.0	0.04499121265377856	0.07551622418879056	0.43097643097643096	_instance_hypernym <-- inv__member_of_domain_region, _member_of_domain_region, _instance_hypernym
+2786.0	0.9792618629173989	0.3618651772957527	0.3618651772957527	_instance_hypernym <-- _instance_hypernym, inv__instance_hypernym, _instance_hypernym
+111.0	0.03901581722319859	0.29133858267716534	0.3153409090909091	_instance_hypernym <-- inv__member_meronym, _member_meronym, _instance_hypernym
+5.0	0.0017574692442882249	0.06666666666666667	0.3125	_instance_hypernym <-- inv__member_meronym, _has_part, _hypernym
+173.0	0.06080843585237258	0.0727502102607233	0.24061196105702365	_instance_hypernym <-- _synset_domain_topic_of, inv__synset_domain_topic_of, _instance_hypernym
+1122.0	0.3943760984182777	0.1819066147859922	0.20429715950473415	_instance_hypernym <-- inv__has_part, _has_part, _instance_hypernym
+28.0	0.00984182776801406	0.00641319285387082	0.10852713178294573	_instance_hypernym <-- inv__has_part, _has_part, _hypernym
+1218.0	0.4281195079086116	0.07778274474742959	0.07778274474742959	_instance_hypernym <-- _instance_hypernym, _hypernym, inv__hypernym
+1.0	0.000351493848857645	0.0006393861892583121	0.045454545454545456	_instance_hypernym <-- inv__has_part, _hypernym
+41.0	0.014411247803163444	0.034280936454849496	0.03897338403041825	_instance_hypernym <-- inv__has_part, _instance_hypernym
+2.0	0.00070298769771529	0.0004791566842357451	0.021505376344086023	_instance_hypernym <-- inv__member_meronym, _hypernym
+12.0	0.00421792618629174	0.00011866384510412752	0.006779661016949152	_instance_hypernym <-- _synset_domain_topic_of, inv__synset_domain_topic_of, _hypernym
+103.0	0.03620386643233743	0.0038860592341067725	0.005821182321690968	_instance_hypernym <-- inv__has_part, _has_part
+13.0	0.0045694200351493845	0.004901960784313725	0.004901960784313725	_instance_hypernym <-- _instance_hypernym, _hypernym
+101.0	0.03550087873462215	0.004658456713251234	0.004658456713251234	_instance_hypernym <-- _instance_hypernym, _synset_domain_topic_of, inv__synset_domain_topic_of
+23.0	0.008084358523725835	0.000822721419373301	0.0010154077082689505	_instance_hypernym <-- inv__has_part, inv__has_part, _has_part

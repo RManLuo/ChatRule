@@ -1,0 +1,11 @@
+*.pyc
+.vscode/
+logs/
+script/
+test/
+tmp/
+.env
+gen_rules/
+pred_results/
+ranked_rules/
+clean_rules/

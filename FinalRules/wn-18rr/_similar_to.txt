@@ -1,0 +1,15 @@
+45.0	0.6	0.8181818181818182	0.9782608695652174	_similar_to <-- inv__similar_to
+17.0	0.22666666666666666	0.021601016518424398	0.85	_similar_to <-- _hypernym, inv__hypernym, _similar_to
+8.0	0.10666666666666667	0.03389830508474576	0.03755868544600939	_similar_to <-- inv__similar_to, _hypernym, inv__hypernym
+2.0	0.02666666666666667	7.091947094074678e-05	0.02564102564102564	_similar_to <-- inv__derivationally_related_form, inv__derivationally_related_form
+2.0	0.02666666666666667	4.8496605237633365e-05	0.02040816326530612	_similar_to <-- _derivationally_related_form, inv__derivationally_related_form
+1.0	0.013333333333333334	7.027900766041184e-05	0.018867924528301886	_similar_to <-- inv__derivationally_related_form, inv__hypernym, inv__derivationally_related_form
+2.0	0.02666666666666667	4.892846658185733e-05	0.018691588785046728	_similar_to <-- inv__derivationally_related_form, _derivationally_related_form
+1.0	0.013333333333333334	4.663526558783752e-05	0.017241379310344827	_similar_to <-- inv__derivationally_related_form, _hypernym, inv__derivationally_related_form
+1.0	0.013333333333333334	4.575821359934108e-05	0.01639344262295082	_similar_to <-- _derivationally_related_form, inv__hypernym, inv__derivationally_related_form
+2.0	0.02666666666666667	3.546350805021633e-05	0.014184397163120567	_similar_to <-- _derivationally_related_form, _derivationally_related_form
+1.0	0.013333333333333334	4.734624307561195e-05	0.014084507042253521	_similar_to <-- inv__derivationally_related_form, inv__hypernym, _derivationally_related_form
+1.0	0.013333333333333334	3.170376006594382e-05	0.013333333333333334	_similar_to <-- _derivationally_related_form, _hypernym, inv__derivationally_related_form
+1.0	0.013333333333333334	3.085943527233452e-05	0.011764705882352941	_similar_to <-- _derivationally_related_form, inv__hypernym, _derivationally_related_form
+1.0	0.013333333333333334	3.099045493987852e-05	0.010526315789473684	_similar_to <-- inv__derivationally_related_form, _hypernym, _derivationally_related_form
+1.0	0.013333333333333334	2.1096601337524523e-05	0.008264462809917356	_similar_to <-- _derivationally_related_form, _hypernym, _derivationally_related_form

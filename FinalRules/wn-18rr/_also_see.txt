@@ -1,0 +1,54 @@
+520.0	0.4173354735152488	0.6103286384976526	0.8934707903780069	_also_see <-- inv__also_see
+754.0	0.6051364365971108	0.3604206500956023	0.854875283446712	_also_see <-- _derivationally_related_form, inv__derivationally_related_form, _also_see
+566.0	0.45425361155698235	0.36753246753246754	0.8435171385991058	_also_see <-- inv__derivationally_related_form, inv__derivationally_related_form, _also_see
+785.0	0.630016051364366	0.37686029764762363	0.8211297071129707	_also_see <-- inv__derivationally_related_form, _derivationally_related_form, _also_see
+912.0	0.7319422150882825	0.3352941176470588	0.8077945084145262	_also_see <-- _derivationally_related_form, _derivationally_related_form, _also_see
+372.0	0.2985553772070626	0.259958071278826	0.6838235294117647	_also_see <-- _derivationally_related_form, _derivationally_related_form, inv__also_see
+295.0	0.23675762439807382	0.22163786626596543	0.4773462783171521	_also_see <-- inv__also_see, _derivationally_related_form, inv__derivationally_related_form
+1151.0	0.9237560192616372	0.47307850390464445	0.47307850390464445	_also_see <-- _also_see, inv__also_see, _also_see
+486.0	0.3900481540930979	0.447926267281106	0.4668587896253602	_also_see <-- inv__also_see, inv__also_see, inv__also_see
+208.0	0.16693418940609953	0.2101010101010101	0.465324384787472	_also_see <-- inv__also_see, inv__derivationally_related_form, inv__derivationally_related_form
+656.0	0.5264847512038523	0.4167725540025413	0.4584206848357792	_also_see <-- inv__also_see, inv__also_see, _also_see
+491.0	0.3940609951845907	0.4504587155963303	0.4504587155963303	_also_see <-- _also_see, inv__derivationally_related_form, inv__derivationally_related_form
+702.0	0.5634028892455859	0.44374209860935526	0.44374209860935526	_also_see <-- _also_see, _derivationally_related_form, inv__derivationally_related_form
+643.0	0.5160513643659711	0.43771272974812797	0.43771272974812797	_also_see <-- _also_see, inv__also_see, inv__also_see
+559.0	0.44863563402889245	0.32312138728323697	0.4137675795706884	_also_see <-- inv__also_see, _also_see, inv__also_see
+762.0	0.6115569823434992	0.378727634194831	0.41368078175895767	_also_see <-- inv__also_see, _also_see, _also_see
+743.0	0.5963081861958266	0.39563365282215124	0.39563365282215124	_also_see <-- _also_see, _also_see, inv__also_see
+895.0	0.7182985553772071	0.3674055829228243	0.3674055829228243	_also_see <-- _also_see, _also_see, _also_see
+103.0	0.0826645264847512	0.12004662004662005	0.12653562653562653	_also_see <-- inv__also_see, inv__also_see
+138.0	0.11075441412520064	0.06934673366834171	0.11320754716981132	_also_see <-- inv__also_see, _also_see
+186.0	0.1492776886035313	0.11064842355740631	0.11064842355740631	_also_see <-- _also_see, _also_see
+5.0	0.0040128410914927765	0.10638297872340426	0.10638297872340426	_also_see <-- _also_see, _verb_group
+142.0	0.11396468699839486	0.09601081812035159	0.09601081812035159	_also_see <-- _also_see, inv__also_see
+227.0	0.18218298555377208	0.07937062937062937	0.07937062937062937	_also_see <-- _also_see, _hypernym, inv__hypernym
+30.0	0.024077046548956663	0.0013990579676351257	0.06607929515418502	_also_see <-- inv__derivationally_related_form, _hypernym, inv__derivationally_related_form
+43.0	0.03451043338683788	0.0013325895624147763	0.05931034482758621	_also_see <-- inv__derivationally_related_form, _hypernym, _derivationally_related_form
+41.0	0.03290529695024077	0.0012998541627036967	0.05916305916305916	_also_see <-- _derivationally_related_form, _hypernym, inv__derivationally_related_form
+62.0	0.04975922953451043	0.0013079892829265206	0.056672760511883	_also_see <-- _derivationally_related_form, _hypernym, _derivationally_related_form
+24.0	0.019261637239165328	0.001686696183849884	0.046153846153846156	_also_see <-- inv__derivationally_related_form, inv__hypernym, inv__derivationally_related_form
+65.0	0.0521669341894061	0.0011525640116320306	0.04209844559585492	_also_see <-- _derivationally_related_form, _derivationally_related_form
+48.0	0.038523274478330656	0.0011742831979645759	0.03976801988400994	_also_see <-- inv__derivationally_related_form, _derivationally_related_form
+48.0	0.038523274478330656	0.0011742831979645759	0.03976801988400994	_also_see <-- inv__derivationally_related_form, _derivationally_related_form
+30.0	0.024077046548956663	0.0014203872922683586	0.039735099337748346	_also_see <-- inv__derivationally_related_form, inv__hypernym, _derivationally_related_form
+32.0	0.025682182985553772	0.0011347115350519485	0.03827751196172249	_also_see <-- inv__derivationally_related_form, inv__derivationally_related_form
+2.0	0.0016051364365971107	0.001669449081803005	0.03773584905660377	_also_see <-- _verb_group, _verb_group
+41.0	0.03290529695024077	0.000994180407371484	0.03670546105640107	_also_see <-- _derivationally_related_form, inv__derivationally_related_form
+32.0	0.025682182985553772	0.0014642628351789146	0.03343782654127482	_also_see <-- _derivationally_related_form, inv__hypernym, inv__derivationally_related_form
+6.0	0.004815409309791332	0.00017922752934850794	0.031088082901554404	_also_see <-- _hypernym
+43.0	0.03451043338683788	0.0013269557167103843	0.030802292263610316	_also_see <-- _derivationally_related_form, inv__hypernym, _derivationally_related_form
+20.0	0.016051364365971106	0.000896780557797507	0.030165912518853696	_also_see <-- inv__hypernym
+8.0	0.006420545746388443	0.0006197226741033388	0.02622950819672131	_also_see <-- inv__hypernym, inv__hypernym
+21.0	0.016853932584269662	0.0007366353304335625	0.0196078431372549	_also_see <-- inv__derivationally_related_form, inv__derivationally_related_form, inv__hypernym
+3.0	0.002407704654895666	0.0010456605088881143	0.01875	_also_see <-- _hypernym, _hypernym, _also_see
+23.0	0.018459069020866775	0.0005684907805625587	0.016986706056129987	_also_see <-- inv__derivationally_related_form, _derivationally_related_form, inv__hypernym
+19.0	0.015248796147672551	0.0008696448187477115	0.016873889875666074	_also_see <-- inv__hypernym, _derivationally_related_form, inv__derivationally_related_form
+19.0	0.015248796147672551	0.0008696448187477115	0.016873889875666074	_also_see <-- inv__hypernym, _derivationally_related_form, inv__derivationally_related_form
+21.0	0.016853932584269662	0.0005301825342725138	0.016216216216216217	_also_see <-- _derivationally_related_form, inv__derivationally_related_form, inv__hypernym
+3.0	0.002407704654895666	0.0008771929824561404	0.014705882352941176	_also_see <-- _derivationally_related_form, _derivationally_related_form, _verb_group
+24.0	0.019261637239165328	0.00044425522462654795	0.014449127031908489	_also_see <-- _derivationally_related_form, _derivationally_related_form, inv__hypernym
+21.0	0.016853932584269662	0.0007029524000803374	0.013990672884743505	_also_see <-- inv__hypernym, _derivationally_related_form, _derivationally_related_form
+2.0	0.0016051364365971107	0.0008058017727639	0.012345679012345678	_also_see <-- inv__derivationally_related_form, _derivationally_related_form, _verb_group
+2.0	0.0016051364365971107	1.1267605633802817e-05	0.005249343832020997	_also_see <-- _synset_domain_topic_of, inv__synset_domain_topic_of
+1.0	0.0008025682182985554	1.7525104712500656e-05	0.000564334085778781	_also_see <-- _derivationally_related_form, _derivationally_related_form, inv__derivationally_related_form
+1.0	0.0008025682182985554	1.3379179321140441e-05	0.0004201680672268908	_also_see <-- _derivationally_related_form, _derivationally_related_form, _derivationally_related_form

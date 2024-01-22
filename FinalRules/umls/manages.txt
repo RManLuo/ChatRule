@@ -1,0 +1,30 @@
+1.0	0.2	0.06666666666666667	1.0	manages <-- exhibits, inv_performs, inv_manages
+1.0	0.2	0.3333333333333333	1.0	manages <-- isa, inv_manages, treats
+1.0	0.2	1.0	1.0	manages <-- manages, inv_isa
+1.0	0.2	0.16666666666666666	1.0	manages <-- performs, affects, inv_manages
+1.0	0.2	1.0	1.0	manages <-- treats, inv_manages
+1.0	0.2	0.16666666666666666	1.0	manages <-- performs, inv_performs, inv_manages
+1.0	0.2	0.2	0.5	manages <-- inv_affects, affects, treats
+1.0	0.2	0.1	0.5	manages <-- produces, inv_produces, treats
+1.0	0.2	0.0625	0.5	manages <-- uses, inv_produces, inv_manages
+1.0	0.2	0.2	0.5	manages <-- inv_affects, inv_produces, treats
+1.0	0.2	0.1	0.5	manages <-- produces, inv_uses, inv_manages
+1.0	0.2	0.1	0.5	manages <-- produces, affects, treats
+4.0	0.8	0.03636363636363636	0.4	manages <-- treats, produces, inv_produces
+4.0	0.8	0.07272727272727272	0.4	manages <-- isa, uses, inv_produces
+1.0	0.2	0.3333333333333333	0.3333333333333333	manages <-- treats, inv_manages, isa
+3.0	0.6	0.0375	0.3333333333333333	manages <-- uses, inv_produces
+3.0	0.6	0.3333333333333333	0.3333333333333333	manages <-- treats, uses, inv_produces
+5.0	1.0	0.25	0.25	manages <-- manages, produces, inv_produces
+3.0	0.6	0.015384615384615385	0.25	manages <-- inv_affects, isa, inv_produces
+2.0	0.4	0.0015885623510722795	0.25	manages <-- isa, inv_affects, affects
+1.0	0.2	0.1	0.25	manages <-- inv_affects, inv_produces, inv_manages
+5.0	1.0	0.01201923076923077	0.25	manages <-- isa, produces, inv_produces
+2.0	0.4	0.05	0.25	manages <-- uses, inv_isa, affects
+1.0	0.2	0.05	0.25	manages <-- produces, affects, inv_manages
+2.0	0.4	0.006535947712418301	0.25	manages <-- isa, inv_affects, inv_produces
+2.0	0.4	0.038461538461538464	0.25	manages <-- uses, inv_isa, inv_produces
+2.0	0.4	0.25	0.25	manages <-- manages, inv_affects, inv_produces
+1.0	0.2	0.027777777777777776	0.25	manages <-- uses, inv_produces, inv_isa
+1.0	0.2	0.027777777777777776	0.25	manages <-- uses, inv_produces, isa
+2.0	0.4	0.024096385542168676	0.25	manages <-- treats, produces, affects

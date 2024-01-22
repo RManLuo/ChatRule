@@ -1,0 +1,30 @@
+7.0	1.0	1.0	1.0	surrounds <-- surrounds
+2.0	0.2857142857142857	0.05555555555555555	1.0	surrounds <-- produces, inv_contains, interconnects
+1.0	0.14285714285714285	0.5	1.0	surrounds <-- inv_surrounds, interconnects
+7.0	1.0	1.0	1.0	surrounds <-- surrounds
+2.0	0.2857142857142857	0.6666666666666666	0.6666666666666666	surrounds <-- surrounds, inv_contains, interconnects
+1.0	0.14285714285714285	0.05	0.5	surrounds <-- produces, disrupts, contains
+1.0	0.14285714285714285	0.25	0.5	surrounds <-- isa, contains
+1.0	0.14285714285714285	0.05	0.5	surrounds <-- produces, inv_produces, interconnects
+6.0	0.8571428571428571	0.1875	0.375	surrounds <-- contains, inv_contains, surrounds
+1.0	0.14285714285714285	0.16666666666666666	0.25	surrounds <-- inv_surrounds, inv_surrounds, surrounds
+2.0	0.2857142857142857	0.013888888888888888	0.25	surrounds <-- produces, inv_contains
+1.0	0.14285714285714285	0.25	0.25	surrounds <-- surrounds, isa, contains
+2.0	0.2857142857142857	0.2222222222222222	0.2222222222222222	surrounds <-- surrounds, inv_contains
+1.0	0.14285714285714285	0.1111111111111111	0.2	surrounds <-- contains, inv_surrounds
+3.0	0.42857142857142855	0.04285714285714286	0.2	surrounds <-- inv_disrupts, disrupts, inv_surrounds
+3.0	0.42857142857142855	0.125	0.1875	surrounds <-- inv_surrounds, contains, inv_contains
+3.0	0.42857142857142855	0.041666666666666664	0.1875	surrounds <-- inv_produces, inv_causes, inv_contains
+3.0	0.42857142857142855	0.09375	0.1875	surrounds <-- isa, contains, inv_contains
+1.0	0.14285714285714285	0.14285714285714285	0.14285714285714285	surrounds <-- surrounds, contains
+1.0	0.14285714285714285	0.125	0.125	surrounds <-- contains, produces, inv_contains
+2.0	0.2857142857142857	0.125	0.125	surrounds <-- interconnects, contains, inv_contains
+1.0	0.14285714285714285	0.1	0.1111111111111111	surrounds <-- inv_surrounds, inv_contains
+2.0	0.2857142857142857	0.005141388174807198	0.1	surrounds <-- isa, inv_isa, contains
+1.0	0.14285714285714285	0.1	0.1	surrounds <-- surrounds, inv_surrounds, contains
+3.0	0.42857142857142855	0.016483516483516484	0.07692307692307693	surrounds <-- inv_disrupts, treats, disrupts
+2.0	0.2857142857142857	0.047619047619047616	0.07142857142857142	surrounds <-- inv_surrounds, inv_disrupts, disrupts
+1.0	0.14285714285714285	0.014285714285714285	0.07142857142857142	surrounds <-- inv_disrupts, inv_isa, disrupts
+1.0	0.14285714285714285	0.0018796992481203006	0.07142857142857142	surrounds <-- causes, inv_complicates, disrupts
+2.0	0.2857142857142857	0.008403361344537815	0.07142857142857142	surrounds <-- isa, produces, disrupts
+1.0	0.14285714285714285	0.0018796992481203006	0.07142857142857142	surrounds <-- causes, produces, disrupts

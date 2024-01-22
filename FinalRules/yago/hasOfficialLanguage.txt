@@ -1,0 +1,46 @@
+2.0	0.007407407407407408	0.02857142857142857	1.0	hasOfficialLanguage <-- inv_isLocatedIn, inv_dealsWith, hasOfficialLanguage
+37.0	0.13703703703703704	0.8409090909090909	1.0	hasOfficialLanguage <-- inv_isPoliticianOf, isLeaderOf, hasOfficialLanguage
+13.0	0.04814814814814815	0.14444444444444443	0.8125	hasOfficialLanguage <-- inv_livesIn, isPoliticianOf, hasOfficialLanguage
+62.0	0.22962962962962963	0.43356643356643354	0.7948717948717948	hasOfficialLanguage <-- inv_isLeaderOf, isLeaderOf, hasOfficialLanguage
+14.0	0.05185185185185185	0.10144927536231885	0.7	hasOfficialLanguage <-- inv_isLocatedIn, hasOfficialLanguage
+38.0	0.14074074074074075	0.003224985148094713	0.6909090909090909	hasOfficialLanguage <-- isLocatedIn, isLocatedIn, hasOfficialLanguage
+44.0	0.16296296296296298	0.003870854227148764	0.6875	hasOfficialLanguage <-- isLocatedIn, hasOfficialLanguage
+25.0	0.09259259259259259	0.352112676056338	0.6410256410256411	hasOfficialLanguage <-- inv_isCitizenOf, livesIn, hasOfficialLanguage
+54.0	0.2	0.34177215189873417	0.6067415730337079	hasOfficialLanguage <-- inv_isCitizenOf, isCitizenOf, hasOfficialLanguage
+23.0	0.08518518518518518	0.10697674418604651	0.575	hasOfficialLanguage <-- inv_livesIn, isCitizenOf, hasOfficialLanguage
+51.0	0.18888888888888888	0.34459459459459457	0.5543478260869565	hasOfficialLanguage <-- inv_hasNeighbor, hasOfficialLanguage
+64.0	0.23703703703703705	0.3121951219512195	0.5333333333333333	hasOfficialLanguage <-- hasNeighbor, hasOfficialLanguage
+39.0	0.14444444444444443	0.15354330708661418	0.5064935064935064	hasOfficialLanguage <-- inv_livesIn, livesIn, hasOfficialLanguage
+88.0	0.32592592592592595	0.25	0.4607329842931937	hasOfficialLanguage <-- hasNeighbor, inv_hasNeighbor, hasOfficialLanguage
+46.0	0.17037037037037037	0.26136363636363635	0.46	hasOfficialLanguage <-- hasCurrency, inv_hasCurrency, hasOfficialLanguage
+85.0	0.3148148148148148	0.25835866261398177	0.4427083333333333	hasOfficialLanguage <-- inv_hasNeighbor, hasNeighbor, hasOfficialLanguage
+90.0	0.3333333333333333	0.22443890274314215	0.4225352112676056	hasOfficialLanguage <-- hasNeighbor, hasNeighbor, hasOfficialLanguage
+32.0	0.11851851851851852	0.06412825651302605	0.3333333333333333	hasOfficialLanguage <-- participatedIn, isLocatedIn, hasOfficialLanguage
+103.0	0.3814814814814815	0.05309278350515464	0.3311897106109325	hasOfficialLanguage <-- inv_happenedIn, happenedIn, hasOfficialLanguage
+199.0	0.737037037037037	0.04111570247933884	0.3241042345276873	hasOfficialLanguage <-- inv_isLocatedIn, isLocatedIn, hasOfficialLanguage
+42.0	0.15555555555555556	0.19626168224299065	0.3181818181818182	hasOfficialLanguage <-- inv_dealsWith, hasOfficialLanguage
+46.0	0.17037037037037037	0.17624521072796934	0.2929936305732484	hasOfficialLanguage <-- inv_dealsWith, inv_hasNeighbor, hasOfficialLanguage
+50.0	0.18518518518518517	0.16233766233766234	0.2857142857142857	hasOfficialLanguage <-- inv_dealsWith, hasNeighbor, hasOfficialLanguage
+105.0	0.3888888888888889	0.0575973669775096	0.2727272727272727	hasOfficialLanguage <-- participatedIn, happenedIn, hasOfficialLanguage
+85.0	0.3148148148148148	0.1480836236933798	0.2607361963190184	hasOfficialLanguage <-- dealsWith, hasOfficialLanguage
+270.0	1.0	0.26036644165863065	0.26036644165863065	hasOfficialLanguage <-- hasOfficialLanguage, inv_hasOfficialLanguage, hasOfficialLanguage
+69.0	0.25555555555555554	0.13372093023255813	0.25842696629213485	hasOfficialLanguage <-- hasNeighbor, inv_dealsWith, hasOfficialLanguage
+10.0	0.037037037037037035	0.14084507042253522	0.25	hasOfficialLanguage <-- inv_dealsWith, inv_isLocatedIn, hasOfficialLanguage
+63.0	0.23333333333333334	0.05044035228182546	0.24705882352941178	hasOfficialLanguage <-- inv_happenedIn, inv_participatedIn, hasOfficialLanguage
+228.0	0.8444444444444444	0.00980392156862745	0.23553719008264462	hasOfficialLanguage <-- isLocatedIn, inv_isLocatedIn, hasOfficialLanguage
+40.0	0.14814814814814814	0.1342281879194631	0.23121387283236994	hasOfficialLanguage <-- inv_dealsWith, inv_dealsWith, hasOfficialLanguage
+55.0	0.2037037037037037	0.11133603238866396	0.20220588235294118	hasOfficialLanguage <-- dealsWith, inv_isLocatedIn, hasOfficialLanguage
+68.0	0.2518518518518518	0.1033434650455927	0.1827956989247312	hasOfficialLanguage <-- inv_dealsWith, dealsWith, hasOfficialLanguage
+69.0	0.25555555555555554	0.10987261146496816	0.1820580474934037	hasOfficialLanguage <-- inv_hasNeighbor, dealsWith, hasOfficialLanguage
+34.0	0.1259259259259259	0.0005803632391096545	0.17	hasOfficialLanguage <-- isLocatedIn, dealsWith, hasOfficialLanguage
+76.0	0.2814814814814815	0.09547738693467336	0.1688888888888889	hasOfficialLanguage <-- hasNeighbor, dealsWith, hasOfficialLanguage
+85.0	0.3148148148148148	0.09781357882623705	0.16865079365079366	hasOfficialLanguage <-- exports, inv_exports, hasOfficialLanguage
+133.0	0.4925925925925926	0.05892778023925565	0.16419753086419753	hasOfficialLanguage <-- participatedIn, inv_participatedIn, hasOfficialLanguage
+37.0	0.13703703703703704	0.0002771680912107751	0.16299559471365638	hasOfficialLanguage <-- isLocatedIn, inv_dealsWith, hasOfficialLanguage
+97.0	0.3592592592592593	0.0812395309882747	0.14831804281345565	hasOfficialLanguage <-- dealsWith, dealsWith, hasOfficialLanguage
+84.0	0.3111111111111111	0.07473309608540925	0.14165261382799327	hasOfficialLanguage <-- dealsWith, hasNeighbor, hasOfficialLanguage
+51.0	0.18888888888888888	0.0787037037037037	0.1408839779005525	hasOfficialLanguage <-- exports, inv_imports, hasOfficialLanguage
+97.0	0.3592592592592593	0.07911908646003263	0.13896848137535817	hasOfficialLanguage <-- imports, inv_imports, hasOfficialLanguage
+78.0	0.28888888888888886	0.07372400756143667	0.13854351687388988	hasOfficialLanguage <-- dealsWith, inv_hasNeighbor, hasOfficialLanguage
+73.0	0.27037037037037037	0.07433808553971487	0.1273996509598604	hasOfficialLanguage <-- imports, inv_exports, hasOfficialLanguage
+117.0	0.43333333333333335	0.06496390893947807	0.11938775510204082	hasOfficialLanguage <-- dealsWith, inv_dealsWith, hasOfficialLanguage

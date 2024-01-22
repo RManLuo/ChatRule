@@ -1,0 +1,15 @@
+830.0	0.9399773499433749	0.23599658800113732	0.4125248508946322	_member_of_domain_region <-- _has_part, inv__has_part, _member_of_domain_region
+865.0	0.9796149490373726	0.25021695111368236	0.25021695111368236	_member_of_domain_region <-- _member_of_domain_region, inv__member_of_domain_region, _member_of_domain_region
+786.0	0.8901472253680635	0.09369412325664561	0.2159934047815334	_member_of_domain_region <-- inv__has_part, _has_part, _member_of_domain_region
+2.0	0.0022650056625141564	0.16666666666666666	0.16666666666666666	_member_of_domain_region <-- _member_of_domain_region, inv__member_meronym
+373.0	0.42242355605889015	0.1425840978593272	0.1425840978593272	_member_of_domain_region <-- _member_of_domain_region, _hypernym, inv__hypernym
+19.0	0.021517553793884484	0.12751677852348994	0.12751677852348994	_member_of_domain_region <-- _member_of_domain_region, inv__member_of_domain_usage, _member_of_domain_usage
+5.0	0.0056625141562853904	0.125	0.125	_member_of_domain_region <-- _member_of_domain_region, inv__has_part
+6.0	0.006795016987542469	0.1111111111111111	0.1111111111111111	_member_of_domain_region <-- _member_of_domain_region, _derivationally_related_form
+315.0	0.3567383918459796	0.0348721355031551	0.10699728260869565	_member_of_domain_region <-- _instance_hypernym, inv__instance_hypernym, _member_of_domain_region
+641.0	0.7259343148357871	0.06455186304128903	0.10202132739137355	_member_of_domain_region <-- inv__member_meronym, _member_meronym, _member_of_domain_region
+3.0	0.0033975084937712344	0.09375	0.09375	_member_of_domain_region <-- _member_of_domain_region, inv__derivationally_related_form
+132.0	0.14949037372593432	0.028871391076115485	0.028871391076115485	_member_of_domain_region <-- _member_of_domain_region, _instance_hypernym, inv__instance_hypernym
+2.0	0.0022650056625141564	0.025974025974025976	0.025974025974025976	_member_of_domain_region <-- _member_of_domain_region, _instance_hypernym, inv__hypernym
+12.0	0.013590033975084938	0.02414486921529175	0.02414486921529175	_member_of_domain_region <-- _member_of_domain_region, _hypernym
+69.0	0.07814269535673839	0.017293233082706767	0.017293233082706767	_member_of_domain_region <-- _member_of_domain_region, _synset_domain_topic_of, inv__synset_domain_topic_of
