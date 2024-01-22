@@ -66,3 +66,6 @@ If you found this repo helpful, please help us by citing this paper:
   year={2023}
 }
 ```
+
+## Acknowledgement
+The code of KGC reasoning in this work is mainly based on [NCRL](https://github.com/vivian1993/NCRL) with a [bug in ranking function](https://github.com/RManLuo/ChatRule/blob/5b1d09e6b03e8c040ac9ce693c527d53fb809725/utils.py#L181-L205) fixed. We thank the authors for their great works.
