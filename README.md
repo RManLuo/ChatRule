@@ -1,6 +1,6 @@
 # ChatRule
 
-Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning with 1 dollar.
+Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning with **1 dollar**.
 
 Official Implementation of "[ChatRule: Mining Logical Rules with Large Language Models for Knowledge Graph Reasoning](https://arxiv.org/abs/2309.01538)".
 
