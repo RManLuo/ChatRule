@@ -44,7 +44,7 @@ python kg_completion.py --dataset ${DATASET} -p ranked_rules/${DATASET}/gpt-3.5-
 ## Reproduce KGC results with mined rules.
 
 ```
-python kg_completion.py --dataset family -p FinalRules/$family
+python kg_completion.py --dataset family -p FinalRules/family
 python kg_completion.py --dataset umls -p FinalRules/umls
 python kg_completion.py --dataset wn-18rr -p FinalRules/wn-18rr
 python kg_completion.py --dataset yago -p FinalRules/yago
